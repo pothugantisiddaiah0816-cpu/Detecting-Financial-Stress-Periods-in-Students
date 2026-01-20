@@ -29,7 +29,8 @@ You can view the live project here:
 )
 
 ## 📸 Screenshots
-<img width="552" height="611" alt="download" src="https://github.com/user-attachments/assets/31c522a6-ff6f-4775-be3e-ce91f3733744" />
+<img width="552" height="611" alt="download" src="https://github.com/user-attachments/assets/31c522a6-ff6f-4775-be3e-ce91f3733744" /><img width="410" height="611" alt="Dashboard 2" src="https://github.com/user-attachments/assets/2e09c440-8cb3-4ead-bdc2-6cc2bdd57355" />
+
 
 
 ## 🏁 Conclusion
